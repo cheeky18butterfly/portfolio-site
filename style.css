@@ -1,0 +1,69 @@
+/* CSS for the HTML document */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+header {
+  background: rgb(43, 3, 70); 
+  color: #fff;
+  padding: 1rem 0;
+  text-align: center;
+}
+
+nav a {
+  color: #fff;
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+/* change color of active link */
+nav a.active {
+  text-decoration: underline;
+  color: #970058; 
+}
+
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+section {
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+  background: #fff;
+  margin-bottom: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+ul {
+  list-style-type: square;
+  padding-left: 20px;
+}
+
+a {
+  color: #007acc;
+}
+
+a:hover {
+  color: #005fa3;
+}
+
+footer {
+  text-align: center;
+  background: rgb(43, 3, 70); 
+  color: #fff;
+  padding: 1rem;
+  font-size: 0.9rem;
+}
