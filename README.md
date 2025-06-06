@@ -21,4 +21,5 @@ The site is designed to be fast, clean, and easy to navigate. It's hosted for fr
 
 ## 📁 Folder Structure
 - index.html
+- script.js
 - style.css
