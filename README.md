@@ -16,6 +16,7 @@ The site is designed to be fast, clean, and easy to navigate. It's hosted for fr
 
 ## 🛠️ Built With
 - HTML5
+- JavaScript
 - CSS3
 - GitHub Pages (for deployment)
 
